@@ -1,0 +1,31 @@
+_repo: The-Incomplete-Amorist_9385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'British -- France -- Paris -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: The Incomplete Amorist
+url: http://www.gutenberg.org/ebooks/9385
